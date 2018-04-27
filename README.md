@@ -7,9 +7,9 @@
     $ curl -s localhost:8080 | grep h1
     <h1>Example Domain</h1>
 
-## Build
+## Build and Publish
 
-    $ docker build .
+    $ make
 
 ## License
 
